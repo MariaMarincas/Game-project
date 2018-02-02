@@ -1,0 +1,223 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2125 MB
+    Driver:   22.20.16.4836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.TestRunner.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.TestRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\nunit.framework.dll into Unity Child Domain
+- Completed reload, in  0.475 seconds
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Maria\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 11.018200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 26dc -> priority: 1 
+  Thread -> id: 26b0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.292437 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 629.
+Total: 1.976414 ms (FindLiveObjects: 0.057476 ms CreateObjectMapping: 0.050776 ms MarkObjects: 1.534233 ms  DeleteObjects: 0.332164 ms)
+
+Hit Elsa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Elsa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Elsa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Music Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 59.579453 ms
+
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 3.080808 ms (FindLiveObjects: 0.085333 ms CreateObjectMapping: 0.076517 ms MarkObjects: 0.385409 ms  DeleteObjects: 2.532490 ms)
+
+New Level load: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343800 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 0.438302 ms (FindLiveObjects: 0.068054 ms CreateObjectMapping: 0.032440 ms MarkObjects: 0.308891 ms  DeleteObjects: 0.027856 ms)
+
+Mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Loose Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.614277 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.966521 ms (FindLiveObjects: 0.141399 ms CreateObjectMapping: 0.086743 ms MarkObjects: 0.678433 ms  DeleteObjects: 0.055008 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Music Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558191 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 1.008835 ms (FindLiveObjects: 0.094853 ms CreateObjectMapping: 0.042313 ms MarkObjects: 0.852978 ms  DeleteObjects: 0.015867 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.369894 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 631.
+Total: 0.474268 ms (FindLiveObjects: 0.054655 ms CreateObjectMapping: 0.032793 ms MarkObjects: 0.205575 ms  DeleteObjects: 0.180539 ms)
+
+Hit Donald
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Donald
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Donald
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.466103 ms
+
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 1.515897 ms (FindLiveObjects: 0.028209 ms CreateObjectMapping: 0.019041 ms MarkObjects: 0.130820 ms  DeleteObjects: 1.336415 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.163613 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 398.
+Total: 0.466158 ms (FindLiveObjects: 0.069465 ms CreateObjectMapping: 0.023977 ms MarkObjects: 0.363899 ms  DeleteObjects: 0.006699 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 385.938171 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 0.774697 ms (FindLiveObjects: 0.070170 ms CreateObjectMapping: 0.046192 ms MarkObjects: 0.634004 ms  DeleteObjects: 0.022567 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711227 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 360.
+Total: 0.228495 ms (FindLiveObjects: 0.045840 ms CreateObjectMapping: 0.011636 ms MarkObjects: 0.145983 ms  DeleteObjects: 0.023977 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537387 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.229905 ms (FindLiveObjects: 0.034909 ms CreateObjectMapping: 0.016220 ms MarkObjects: 0.173839 ms  DeleteObjects: 0.004584 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 414.458801 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.209454 ms (FindLiveObjects: 0.026798 ms CreateObjectMapping: 0.010578 ms MarkObjects: 0.167140 ms  DeleteObjects: 0.003878 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 411.249298 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 641.
+Total: 0.674202 ms (FindLiveObjects: 0.068760 ms CreateObjectMapping: 0.044429 ms MarkObjects: 0.295139 ms  DeleteObjects: 0.264814 ms)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.317278 ms
+
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 1.643897 ms (FindLiveObjects: 0.071933 ms CreateObjectMapping: 0.022920 ms MarkObjects: 0.152682 ms  DeleteObjects: 1.395302 ms)
+
+Can't add component 'Rigidbody' to Cube (5) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392814 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 1.348757 ms (FindLiveObjects: 0.057476 ms CreateObjectMapping: 0.032088 ms MarkObjects: 1.016240 ms  DeleteObjects: 0.241189 ms)
+
+Can't add component 'Rigidbody' to Cube (3) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.493662 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 1.795874 ms (FindLiveObjects: 0.122357 ms CreateObjectMapping: 0.041256 ms MarkObjects: 1.080416 ms  DeleteObjects: 0.547965 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363194 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 641.
+Total: 0.537387 ms (FindLiveObjects: 0.064176 ms CreateObjectMapping: 0.032088 ms MarkObjects: 0.243305 ms  DeleteObjects: 0.197112 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 40.515255 ms
+
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 3.988795 ms (FindLiveObjects: 0.063823 ms CreateObjectMapping: 0.039845 ms MarkObjects: 0.341685 ms  DeleteObjects: 3.541677 ms)
+
